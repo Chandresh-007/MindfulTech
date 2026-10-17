@@ -1,0 +1,8 @@
+flask
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
+# AWS SDK (for S3 and Bedrock integration)
+boto3
